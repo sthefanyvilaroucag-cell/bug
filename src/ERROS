@@ -1,0 +1,6 @@
+erro 1: construtor tava faltando this.
+então coloquei this. ai ele leu o valor certo.
+
+erro 2: a conta do percentual tava errada
+então troquei salario = salario + percentual
+o certo erra salario = salario * salario (percentual / 100)
